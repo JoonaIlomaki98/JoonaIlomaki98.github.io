@@ -4,13 +4,13 @@
 
 ### Koulutus
 
-##Ammattikoulu [2014] - [2017]
+## Ammattikoulu [2014] - [2017]
 
-#Gradia
+# Gradia
 
-##Tietojenkäsittely Tradenomi [2021] - [2024]
+## Tietojenkäsittely Tradenomi [2021] - [2024]
 
-#Jyväskylän ammattikorkeakoulu
+# Jyväskylän ammattikorkeakoulu
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
