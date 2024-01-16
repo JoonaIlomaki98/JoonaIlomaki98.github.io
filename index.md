@@ -1,11 +1,16 @@
-## Portfolio
+## Tietojenkäsittelyn tutkinto-ohjelma (AMK) 
 
 ---
 
-### Category Name 1 
+### Koulutus
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+##Ammattikoulu [2014] - [2017]
+
+#Gradia
+
+##Tietojenkäsittely Tradenomi [2021] - [2024]
+
+#Jyväskylän ammattikorkeakoulu
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
