@@ -1,10 +1,10 @@
-## Tietojenkäsittelyn tutkinto-ohjelma (AMK) 
+# Tietojenkäsittely
 
 ---
 
-### Koulutus
+## Koulutus
 
-## Ammattikoulu [2014] - [2017]
+### Tieto- ja viestintätekniikan perustutkinto [2014] - [2017]
 
 ### Gradia
 
@@ -13,8 +13,6 @@
 ### Jyväskylän ammattikorkeakoulu
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
