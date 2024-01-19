@@ -13,6 +13,22 @@
 **Jyväskylän ammattikorkeakoulu**
 
 ---
+## Työkokemus
+
+[Alatar Oy] - [2021] - [2023]
+
+Työtehtävät:
+
+- Sisällön editointia DaVinci Resolvella
+- Yrityksen nettisivujen kääntämistä Englanniksi
+- Some markkinointia
+
+[Säilykeherttua Oy] - [2018] - [2019]
+
+Työtehtävät:
+
+- Sesonkityötä mm. Säilykkeiden valmistus sekä pakkaaminen
+- Asiakaspalvelu
 
 ---
 [Project 3 Title](http://example.com/)
