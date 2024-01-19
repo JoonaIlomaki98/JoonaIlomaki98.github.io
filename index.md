@@ -15,20 +15,30 @@
 ---
 ## Työkokemus
 
-[Alatar Oy] - [2021] - [2023]
+### [Alatar Oy] - [2021] - [2023]
 
-Työtehtävät:
+### Työtehtävät:
 
 - Sisällön editointia DaVinci Resolvella
 - Yrityksen nettisivujen kääntämistä Englanniksi
 - Some markkinointia
 
-[Säilykeherttua Oy] - [2018] - [2019]
+### [Säilykeherttua Oy] - [2018] - [2019]
 
-Työtehtävät:
+### Työtehtävät:
 
 - Sesonkityötä mm. Säilykkeiden valmistus sekä pakkaaminen
 - Asiakaspalvelu
+
+---
+
+## Taidot
+
+- Frontend-kehitys: HTML, CSS, Svelte
+- Kuvankäsittely: Adobe PhotoShop
+- Video-editointi: Adobe Premiere, Adobe After Effects, DaVinci Resolve, CapCut
+- Pilvipalvelut: AWS
+- Työkalut: Git, VSCode
 
 ---
 [Project 3 Title](http://example.com/)
