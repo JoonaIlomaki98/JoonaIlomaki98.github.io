@@ -41,6 +41,7 @@
 
 ## Taidot
 
+- Suunnittelu: Figma
 - Frontend-kehitys: HTML, CSS, Svelte
 - Kuvankäsittely: Adobe PhotoShop
 - Video-editointi: Adobe Premiere, Adobe After Effects, DaVinci Resolve, CapCut
@@ -59,15 +60,21 @@
 
 **Sisältö:**
 
-    Koulutusohjelmaan kuuluva noin 4kk mittainen sovelluskehitysprojekti, jossa tarkoituksena oli rakentaa toimiva sovelluskokonaisuus. Projekti toteutettiin viiden hengen ryhmissä Scrum projektinhallinta menetelmää hyödyntäen. Ryhmämme rakensi tapahtumasovelluksen, jossa vastasin backendistä, testauksesta sekä pilvipalveluista.
+Koulutusohjelmaan sisältyi 4 kuukautta kestävä softan kehitysprojekti, minkä ideana oli suunnitella ja toteuttaa toimiva prototyyppi sovelluksesta. Projekti tehtiin viiden hengen ryhmissä, missä hyödynnettiin Scrumin menetelmiä. Meidän ryhmämme teki tapahtumakarttasovelluksen (Find Events), jossa vastasin toisen ryhmän jäsenen kanssa UI/UX/Sisällöntuotannosta sekä liiketoiminnasta.
 
-**Käytetyt tekniikat ja työkalut:**
+**Käytetyt työkalut:**
+
+Sovelluksen näkyvä puoli suunniteltiin hyödyntäen Figman graafista työkalua ja toteutus tehtiin Sveltellä (selainversio) sekä Angular/NativeScriptillä (mobiili).
 
     Backend toteutettiin käyttämllä node.js, express, MongoDB stäckkiä.
     Pilvipalveluinfastruktuuri rakennettiin AWS:n palveluita hyödyntäen, joita olivat S3, Elastic Beanstalk sekä CloudFront.
     Sovelluskokonaisuutta testattiin Cypressillä.
 
 **Saavutukset ja oppimiskokemukset:**
+
+- Figman käyttäminen sovelluksen graafisessa suunnittelussa
+- Svelten ja Angular/NativeScriptin käyttäminen graafisen puolen toteutuksessa
+- Scrum käytänteiden hyödyntäminen laajassa opintojaksossa
 
     S3 bucket käyttöönotto backendsovellukseen
     Nodemailerin käyttö sähköpostin vahvistamiseen rekisteröinnin yhteydessä
