@@ -63,7 +63,8 @@ Koulutusohjelmaan sisältyi 4 kuukautta kestävä softan kehitysprojekti, minkä
 - Sovelluksen näkyvä puoli suunniteltiin hyödyntäen Figman graafista työkalua 
 - Toteutus tehtiin Sveltellä (selainversio) sekä Angular/NativeScriptillä (mobiili)
 - Sovellukselle tehtiin mainostusta varten graafista sisältöä hyödyntäen Adoben työkaluja
-- Sovelluksen näkyvää puolta ja käytettävyyttä testattiin [kyselyllä]([https://www.example.com](https://forms.office.com/Pages/ResponsePage.aspx?id=8Kqebvc_6U2M1B_71FlRueKZbmRf2_pGlJwTys3gYsVUOTgwUDNJWEdFMkhKOThEMzZXRTIxQklMVS4u)) hyödyntäen Microsoft Formsia
+- Sovelluksen näkyvää puolta ja käytettävyyttä testattiin [kyselyllä](https://forms.office.com/e/FKpFD2Thv2) hyödyntäen Microsoft Formsia
+
 **Saavutukset ja oppimiskokemukset:**
 
 - Figman käyttäminen sovelluksen graafisessa suunnittelussa
