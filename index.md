@@ -74,5 +74,9 @@ Koulutusohjelmaan sisältyi 4 kuukautta kestävä softan kehitysprojekti, minkä
 
 **Esimerkkejä visuaalisesta sisällöstä:**
 
+### Mobiilisovellus ennen tyylittelyjäni ja jälkeen:
+
+![Ennen ja jälkeen](images/oldvsnew.png)
+
 
 
