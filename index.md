@@ -76,7 +76,7 @@ Koulutusohjelmaan sisältyi 4 kuukautta kestävä softan kehitysprojekti, minkä
 
 ### Suunnittelemani ikonit:
 
-![Ennen ja jälkeen](images/icons-examples.png)
+![Ikoneita](images/icons-example.png)
 
 
 
