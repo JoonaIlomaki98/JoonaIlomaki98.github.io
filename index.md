@@ -74,6 +74,8 @@ Koulutusohjelmaan sisältyi 4 kuukautta kestävä softan kehitysprojekti, minkä
 
 **Esimerkkejä visuaalisesta sisällöstä:**
 
+### Find Events [mainosvideo](https://jamkstudent-my.sharepoint.com/:v:/g/personal/n9558_student_jamk_fi/EeARU9QgYPFKjMcB2mbdvVYBfOaH1u5Z-wdf0Z5xDwoyAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QGkUcT)
+
 ### Sovelluksessa käytettyjä ikoneita:
 
 ![Ikoneita](images/icons-example.png)
@@ -84,7 +86,9 @@ Koulutusohjelmaan sisältyi 4 kuukautta kestävä softan kehitysprojekti, minkä
 ![Selainversion näkymiä](images/finde-desktop-main.png)
 ![Selainversion näkymiä](images/finde-desktop-gdpr.png)
 
-### Find Events [mainosvideo](https://jamkstudent-my.sharepoint.com/:v:/g/personal/n9558_student_jamk_fi/EeARU9QgYPFKjMcB2mbdvVYBfOaH1u5Z-wdf0Z5xDwoyAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QGkUcT)
+### Mobiiliversion näkymiä:
+
+![Mobiiliversion näkymiä](images/mobile-näkymät.png)
 
 
 
