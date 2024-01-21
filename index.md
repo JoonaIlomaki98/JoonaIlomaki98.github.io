@@ -78,9 +78,13 @@ Koulutusohjelmaan sisältyi 4 kuukautta kestävä softan kehitysprojekti, minkä
 
 ![Ikoneita](images/icons-example.png)
 
-### Sovelluksessa käytettyjä ikoneita:
+### Selainversion näkymiä:
 
-![Ikoneita](images/icons-example.png)
+![Selainversion näkymiä](images/finde-login-desktop.png)
+![Selainversion näkymiä](images/finde-desktop-main.png)
+![Selainversion näkymiä](images/finde-desktop-gdpr.png)
+
+
 
 
 
