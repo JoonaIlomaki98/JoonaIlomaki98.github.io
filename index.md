@@ -80,7 +80,7 @@ Koulutusohjelmaan sisältyi 4 kuukautta kestävä softan kehitysprojekti, minkä
 
 ### Selainversion näkymiä:
 
-![Selainversion näkymiä](images/finde-login-desktop.png)
+![Selainversion näkymiä](images/finde-login.png)
 ![Selainversion näkymiä](images/finde-desktop-main.png)
 ![Selainversion näkymiä](images/finde-desktop-gdpr.png)
 
