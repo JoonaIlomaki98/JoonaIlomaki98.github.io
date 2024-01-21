@@ -74,7 +74,11 @@ Koulutusohjelmaan sisältyi 4 kuukautta kestävä softan kehitysprojekti, minkä
 
 **Esimerkkejä visuaalisesta sisällöstä:**
 
-### Suunnittelemani ikonit:
+### Sovelluksessa käytettyjä ikoneita:
+
+![Ikoneita](images/icons-example.png)
+
+### Sovelluksessa käytettyjä ikoneita:
 
 ![Ikoneita](images/icons-example.png)
 
