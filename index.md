@@ -64,40 +64,19 @@ Koulutusohjelmaan sisältyi 4 kuukautta kestävä softan kehitysprojekti, minkä
 
 **Käytetyt työkalut:**
 
-Sovelluksen näkyvä puoli suunniteltiin hyödyntäen Figman graafista työkalua ja toteutus tehtiin Sveltellä (selainversio) sekä Angular/NativeScriptillä (mobiili).
-
-    Backend toteutettiin käyttämllä node.js, express, MongoDB stäckkiä.
-    Pilvipalveluinfastruktuuri rakennettiin AWS:n palveluita hyödyntäen, joita olivat S3, Elastic Beanstalk sekä CloudFront.
-    Sovelluskokonaisuutta testattiin Cypressillä.
+- Sovelluksen näkyvä puoli suunniteltiin hyödyntäen Figman graafista työkalua 
+- Toteutus tehtiin Sveltellä (selainversio) sekä Angular/NativeScriptillä (mobiili)
+- Sovellukselle tehtiin mainostusta varten graafista sisältöä hyödyntäen Adoben työkaluja
+- Sovelluksen näkyvää puolta ja käytettävyyttä testattiin kyselyllä hyödyntäen Microsoft Formsia
 
 **Saavutukset ja oppimiskokemukset:**
 
 - Figman käyttäminen sovelluksen graafisessa suunnittelussa
 - Svelten ja Angular/NativeScriptin käyttäminen graafisen puolen toteutuksessa
 - Scrum käytänteiden hyödyntäminen laajassa opintojaksossa
+- Markkinoinnin perusteet ja sometilien mahdollinen hyödyntäminen jatkokehityksessä
 
-    S3 bucket käyttöönotto backendsovellukseen
-    Nodemailerin käyttö sähköpostin vahvistamiseen rekisteröinnin yhteydessä
-    Google autentikointi
-    Metodit tiedon manipuloimiseen
-    Manuaalitestaustapahuman suunnittelu, seuraaminen sekä tulosten raportointi
+**Esimerkkejä visuaalisesta sisällöstä:**
 
 
 
----
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
