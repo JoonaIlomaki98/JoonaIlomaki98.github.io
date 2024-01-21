@@ -56,7 +56,7 @@
 
 **Sisältö:**
 
-Koulutusohjelmaan sisältyi 4 kuukautta kestävä softan kehitysprojekti, minkä ideana oli suunnitella ja toteuttaa toimiva prototyyppi sovelluksesta. Projekti tehtiin viiden hengen ryhmissä, missä hyödynnettiin Scrumin menetelmiä. Meidän ryhmämme teki tapahtumakarttasovelluksen [Find Events]([https://forms.office.com/e/FKpFD2Thv2], jossa vastasin toisen ryhmän jäsenen kanssa UI/UX/Sisällöntuotannosta sekä liiketoiminnasta.
+Koulutusohjelmaan sisältyi 4 kuukautta kestävä softan kehitysprojekti, minkä ideana oli suunnitella ja toteuttaa toimiva prototyyppi sovelluksesta. Projekti tehtiin viiden hengen ryhmissä, missä hyödynnettiin Scrumin menetelmiä. Meidän ryhmämme teki tapahtumakarttasovelluksen [Find Events]([https://forms.office.com/e/FKpFD2Thv2]), jossa vastasin toisen ryhmän jäsenen kanssa UI/UX/Sisällöntuotannosta sekä liiketoiminnasta.
 
 **Käytetyt työkalut:**
 
