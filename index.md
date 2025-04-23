@@ -4,7 +4,7 @@
 
 ## Koulutus
 
-### Tietojenkäsittely Tradenomi [2021] - [2024]
+### Tietojenkäsittely Tradenomi [2021] - [2025]
 
 **Jyväskylän ammattikorkeakoulu**
 
