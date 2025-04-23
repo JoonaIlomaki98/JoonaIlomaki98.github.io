@@ -4,18 +4,18 @@
 
 ## Koulutus
 
-### Tieto- ja viestintätekniikan perustutkinto [2014] - [2017]
-
-**Gradia**
-
 ### Tietojenkäsittely Tradenomi [2021] - [2024]
 
 **Jyväskylän ammattikorkeakoulu**
 
+### Tieto- ja viestintätekniikan perustutkinto [2014] - [2017]
+
+**Gradia**
+
 ---
 ## Työkokemus
 
-### [CSKeisari/Skinvault] - [2023] - [2024]
+### [CSKeisari/Skinvault] - [2023] - [2025]
 
 ### Työtehtävät:
 
