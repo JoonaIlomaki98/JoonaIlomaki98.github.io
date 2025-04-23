@@ -45,7 +45,7 @@
 - Suunnittelu: Figma
 - Frontend-kehitys: HTML, CSS, Svelte
 - Kuvankäsittely: Adobe PhotoShop
-- Video-editointi: Adobe Premiere, Adobe After Effects, DaVinci Resolve, CapCut
+- Videoeditointi: Adobe Premiere, Adobe After Effects, DaVinci Resolve, CapCut
 - Pilvipalvelut: AWS
 - Työkalut: Git, VSCode
 
