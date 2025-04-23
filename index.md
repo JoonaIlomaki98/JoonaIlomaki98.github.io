@@ -8,6 +8,7 @@
 
 **Jyväskylän ammattikorkeakoulu**
 
+
 ### Tieto- ja viestintätekniikan perustutkinto [2014] - [2017]
 
 **Gradia**
